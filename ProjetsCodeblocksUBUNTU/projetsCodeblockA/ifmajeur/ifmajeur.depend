@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1356190252 source:c:\users\arnaud\desktop\projetscodeblock\ifmajeur\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1385578005 source:c:\users\arnaud\desktop\projetcodeblock\tableaudamdam\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1385670458 source:c:\users\arnaud\desktop\projetscodeblockb\tableaudamdam\main.c
+	<stdio.h>
+	<stdlib.h>
+

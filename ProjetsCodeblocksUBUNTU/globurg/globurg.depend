@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1434356249 source:c:\users\arnaud\desktop\projetscodeblocksubuntu\globurg\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1356192762 source:c:\users\arnaud\desktop\projetsccodeblock\bouclefor\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1451047124 source:c:\users\arnaud\desktop\projetsc\projetsjeux\pendu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"fonctions.h"
+
+1450114988 c:\users\arnaud\desktop\projetsc\projetsjeux\pendu\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"fonctions.h"
+
+1450103734 c:\users\arnaud\desktop\projetsc\projetsjeux\pendu\prototypes.h
+
+1451048394 source:c:\users\arnaud\desktop\projetsc\projetsjeux\pendu\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"fonctions.h"
+
+1451048240 c:\users\arnaud\desktop\projetsc\projetsjeux\pendu\fonctions.h
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1393527748 source:/home/arnaud/Bureau/ProjetsCodeblocks/CorrigéPendu/fonctions.c
+
+1394491597 source:/home/arnaud/Bureau/ProjetsCodeblocks/CorrigéPendu/dico.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+

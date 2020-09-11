@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1448380488 source:c:\users\arnaud\desktop\projetscodeblocksubuntu\fusiontab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1386693060 source:/home/arnaud/Bureau/ProjetsCodeblocks/char4/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

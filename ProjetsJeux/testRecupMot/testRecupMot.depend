@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1450739867 source:c:\users\arnaud\desktop\projetsc\projetsjeux\testrecupmot\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"fonctions.h"
+	<ctype.h>
+
+1450979289 source:c:\users\arnaud\desktop\projetsc\projetsjeux\testrecupmot\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"fonctions.h"
+	<ctype.h>
+
+1450979252 c:\users\arnaud\desktop\projetsc\projetsjeux\testrecupmot\fonctions.h
+

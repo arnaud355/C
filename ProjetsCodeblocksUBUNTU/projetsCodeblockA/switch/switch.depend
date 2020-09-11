@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1356191852 source:c:\users\arnaud\projet\switch\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1356191854 source:c:\users\arnaud\desktop\projetsccodeblock\switch\main.c
+	<stdio.h>
+	<stdlib.h>
+

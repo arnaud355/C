@@ -1,0 +1,17 @@
+Quand on code un programme qui réagit aux événements on doit suivre la plupart du temps le même schéma de code:
+
+	while(continuer){
+		SDL_WaitEvent(&event);
+		switch(event.type){
+			case SDL_TRUC: /*gestion des événements de type truc
+			case SDL_MACHIN: /*gestion des événements de type machin
+		}
+
+		/*On efface l'écran (ici fond blanc), si on le faisait pas on aurait trace de l'ancien ecran*/
+		SDL_FillRect(ecran,NULL,SDL_MapRGB(ecran->format,255,255,255));
+
+		/*On fait tous les SDL_BlitSurface nécessaire pour coller les surfaces à l'écran*/
+		
+		/*On met à jour l'écran, pour un affichage ni vu ni connu aux yeux de l'utilisateur*/
+		SDL_Flip(ecran);
+	}

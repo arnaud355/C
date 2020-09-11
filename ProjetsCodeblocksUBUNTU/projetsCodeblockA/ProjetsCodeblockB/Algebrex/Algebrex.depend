@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1384799849 source:c:\users\arnaud\desktop\projetcodeblock\algebrex\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

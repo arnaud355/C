@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1356192394 source:c:\users\arnaud\desktop\projetsccodeblock\bouclewhile\main.c
+	<stdio.h>
+	<stdlib.h>
+

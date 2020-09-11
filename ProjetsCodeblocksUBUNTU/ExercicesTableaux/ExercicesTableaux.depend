@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1386253680 source:/home/arnaud/Bureau/ProjetsCodeblocks/ExercicesTableaux/main.c
+	<stdio.h>
+	<stdlib.h>
+	"tableaux.h"
+
+1386253680 /home/arnaud/Bureau/ProjetsCodeblocks/ExercicesTableaux/tableaux.h
+
+1386253725 source:/home/arnaud/Bureau/ProjetsCodeblocks/ExercicesTableaux/tableaux.c
+	<stdio.h>
+	<stdlib.h>
+	"tableaux.h"
+

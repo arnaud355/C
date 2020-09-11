@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1384451666 source:c:\users\arnaud\desktop\projetcodeblock\temperature\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1385911495 source:/home/arnaud/Bureau/ProjetsCodeblocks/TranscriptionTriBulles/main.c
+	<stdio.h>
+	<stdlib.h>
+

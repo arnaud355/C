@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1356289207 source:c:\users\arnaud\desktop\projetsc\triplefonction\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1356289208 source:c:\users\arnaud\desktop\projetscodeblock\triplefonction\main.c
+	<stdio.h>
+	<stdlib.h>
+

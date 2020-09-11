@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1450350794 source:c:\users\arnaud\desktop\projetsc\projetsjeux\jeuxtableaux\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	"fonctions.h"
+
+1450350118 c:\users\arnaud\desktop\projetsc\projetsjeux\jeuxtableaux\fonctions.h
+
+1450350873 source:c:\users\arnaud\desktop\projetsc\projetsjeux\jeuxtableaux\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fonctions.h"
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1355953956 source:c:\users\arnaud\desktop\projetsccodeblock\conditionage\main.c
+	<stdio.h>
+	<stdlib.h>
+

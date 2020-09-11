@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1393087319 source:/home/arnaud/Bureau/ProjetsCodeblocks/EssaiboucleCaractere/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

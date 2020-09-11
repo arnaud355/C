@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1388424930 source:/home/arnaud/Bureau/ProjetsCodeblocks/TpPendu/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
